@@ -126,15 +126,15 @@ cd Evidently AI Sets Sail in Docker
 docker build -t evidently-streamlit .
 docker run -p 8501:8501 evidently-streamlit
 ```
-![image](![Alt Text](https://github.com/manya1604/Docker-Container-Projects/blob/main/EvidentlyAI/docker.png?raw=true)
-)
+![Evidently AI Dashboard](https://github.com/manya1604/Docker-Container-Projects/blob/main/EvidentlyAI/docker.png?raw=true)
+
  
 ### 3️⃣ Access the Streamlit App
 
 Open [http://localhost:8501](http://localhost:8501) in your browser.
 
-![image](![Alt Text](https://github.com/manya1604/Docker-Container-Projects/blob/main/EvidentlyAI/image.png?raw=true)
-)
+![Evidently AI Dashboard](https://github.com/manya1604/Docker-Container-Projects/blob/main/EvidentlyAI/image.png?raw=true)
+
 
 ---
 
