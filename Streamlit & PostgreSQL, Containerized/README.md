@@ -61,6 +61,8 @@ INSERT INTO users (name, age) VALUES
 ('Charlie', 35);
 ```
 
+
+
 ---
 
 ## 🎨 Streamlit Application (`main.py`)
@@ -96,14 +98,15 @@ docker build -t streamlit_app .
 docker run --name my_streamlit_container --network my_postgres_network -p 8501:8501 -d streamlit_app
 ```
 This ensures that the Streamlit app can communicate with PostgreSQL.
-
+![Streamlit App](https://github.com/manya1604/Docker-Container-Projects/blob/main/Streamlit%20&%20PostgreSQL,%20Containerized/container.png?raw=true)
 ---
 
 ## 🔗 Access the Application
 Open a browser and navigate to:
 👉 **[http://localhost:8501](http://localhost:8501)**
 
-You should see the list of passengers displayed in the app.
+You should see the list of users displayed in the app.
+![Streamlit App](https://github.com/manya1604/Docker-Container-Projects/blob/main/Streamlit%20&%20PostgreSQL,%20Containerized/final.png?raw=true)
 
 ---
 
