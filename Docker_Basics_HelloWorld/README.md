@@ -84,7 +84,9 @@ Execute the container to **run your Python script inside Docker**:
 docker run myapp
 ```  
 
-🎉 If everything is set up correctly, **"Hello, World!"** should appear in your terminal! 🎊  
+🎉 If everything is set up correctly, **"Hello, World!"** should appear in your terminal like shown below! 🎊 
+![Docker Image](https://github.com/manya1604/Docker-Container-Projects/blob/main/Docker_Basics_HelloWorld/ss%20(1).png)
+
 
 ---
 
