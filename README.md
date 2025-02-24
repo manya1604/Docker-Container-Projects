@@ -42,10 +42,6 @@ Welcome to **Docker-Container-Projects**! 🌊 This repository contains hands-on
 🔹 Automating container workflows with **CI/CD**  
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="250"/>
-</div>  
-
 ### ⭐ **Star this repository** if you find it helpful!  
 💬 Have suggestions or want to collaborate? **Feel free to contribute!** 🚀🐳  
+
