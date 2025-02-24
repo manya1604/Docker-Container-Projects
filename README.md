@@ -18,7 +18,7 @@ Welcome to **Docker-Container-Projects**! 🌊 This repository contains hands-on
 |------------|---------|---------|
 | **🐳 Docker Basics: Hello, World!** | Getting started with Docker containers. | [View Project](https://github.com/manya1604/Docker-Container-Projects/tree/main/Docker_Basics_HelloWorld) |
 | **📊 Dockerized Streamlit Development Environment** | Web app deployment inside a container. | [View Project](https://github.com/manya1604/Docker-Container-Projects/tree/main/Dockerized%20Streamlit%20Development%20Environment) |
-| **🚢 Titanic Survival Predictor: Streamlit + Docker** | ML model deployment inside a container. | [View Project](https://github.com/manya1604/Docker-Container-Projects/tree/main/Titanic%20Survival%20Predictor%20Containerized%20Streamlit) |
+| **🚢 Titanic Survival Predictor: Streamlit + Docker** | ML model deployment inside a container. | [View Project](https://github.com/manya1604/Docker-Container-Projects/tree/main/Titanic%20Survival%20Predictor%20Containerized%20Streamlit%20App) |
 | **🐬 Containerized MySQL: Scalable & Secure** | Persistent database setup using Docker. | [View Project](https://github.com/manya1604/Docker-Container-Projects/tree/main/Containerized%20MySQL%3A%20Scalable%20%26%20Secure) |
 | **🗂️ Docker Volumes & Bind Mounts** | Data persistence and storage in containers. | [View Project](https://github.com/manya1604/Docker-Container-Projects/tree/main/Docker%20Volumes%20%26%20Bind%20Mounts%3A%20Ensuring%20Data%20Persistence) |
 | **🔗 Docker Bridge Networking** | Multi-container communication and isolation. | [View Project](https://github.com/manya1604/Docker-Container-Projects/tree/main/Docker%20Bridge%3A%20Balancing%20Isolation%20%26%20Connectivity) |
