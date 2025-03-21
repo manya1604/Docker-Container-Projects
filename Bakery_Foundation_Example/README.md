@@ -1,4 +1,4 @@
-# 🚀 **README: Packer-based AMI Creation on AWS** 🖥️
+# 🚀 Packer-based AMI Creation on AWS 🖥️
 
 ## 📌 **Overview**
 This experiment demonstrates how to create an Amazon Machine Image (**AMI**) using **Packer** on AWS. Packer automates the AMI creation process, making it efficient, repeatable, and scalable.
@@ -65,8 +65,7 @@ Once the build process completes, the newly created AMI can be found in the **AW
 3. Choose **My AMIs** > Select the newly created AMI
 4. Configure instance settings and launch the instance
 
-🖼 **Screenshot Placeholder:** *(Insert screenshot of instance launch here)*
-
+![AMI List Screenshot](https://github.com/manya1604/Docker-Container-Projects/blob/main/Bakery_Foundation_Example/Screenshot%202025-03-21%20232238.png)
 ### ✅ **7. Connect to the Instance**
 Once the instance is running, connect via SSH:
 ```sh
