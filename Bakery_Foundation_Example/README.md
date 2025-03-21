@@ -52,7 +52,7 @@ To create the AMI, execute:
 ```sh
 packer build packer.json
 ```
-
+![AMI List Screenshot](https://github.com/manya1604/Docker-Container-Projects/blob/main/Bakery_Foundation_Example/Screenshot%202025-03-21%20231942.png)
 ### ✅ **5. Verify AMI in AWS Console**
 Once the build process completes, the newly created AMI can be found in the **AWS EC2 Console** under **Images > AMIs**.
 
