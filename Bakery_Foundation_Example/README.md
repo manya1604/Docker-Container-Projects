@@ -56,7 +56,8 @@ packer build packer.json
 ### ✅ **5. Verify AMI in AWS Console**
 Once the build process completes, the newly created AMI can be found in the **AWS EC2 Console** under **Images > AMIs**.
 
-🖼 **Screenshot Placeholder:** *(Insert screenshot of AMI list here)*
+![AMI List Screenshot](https://github.com/manya1604/Docker-Container-Projects/blob/main/Bakery_Foundation_Example/Screenshot%202025-03-21%20225012.png)
+
 
 ### ✅ **6. Launch an EC2 Instance from the AMI**
 1. Navigate to the **AWS EC2 Console**
