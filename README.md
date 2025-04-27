@@ -26,6 +26,9 @@ Welcome to **Docker-Container-Projects**! 🌊 This repository contains hands-on
 | **🛳️ Streamlit & PostgreSQL, Containerized** | Database-powered web apps with Docker. | [View Project](https://github.com/manya1604/Docker-Container-Projects/tree/main/Streamlit%20%26%20PostgreSQL%2C%20Containerized) |
 | **☨ Minikube with Docker on Windows** | Setting up Kubernetes locally with Minikube. | [View Project](https://github.com/manya1604/Docker-Container-Projects/tree/main/Minikube%20with%20Docker%20on%20Windows) |
 | **☁️ Deploying a Streamlit App in Docker on AWS EC2** | Deploying containerized applications on AWS. | [View Project](https://github.com/manya1604/Docker-Container-Projects/tree/main/Deploying%20a%20Streamlit%20App%20in%20Docker%20on%20AWS%20EC2) |
+| **🛠️ Microservices using Docker Swarm** | Building and containerizing microservices architecture. | [View Project](https://github.com/manya1604/Docker-Container-Projects/tree/main/Microservices%20Architecture%20using%20Docker%20Swarm) |
+| **🕸️ Microservices Orchestration with Minikube & Kubernetes** | Managing microservices with Kubernetes locally. | [View Project](https://github.com/manya1604/Docker-Container-Projects/tree/main/Microservices%20Orchestration%20with%20Minikube%20%26%20Kubernetes) |
+| **🏛️ Bakery Foundation Example** | Foundational microservices example app. | [View Project](https://github.com/manya1604/Docker-Container-Projects/tree/main/Bakery_Foundation_Example) |
 
 
 
